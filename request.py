@@ -2,4 +2,4 @@ __author__ = 'jcg5at'
 
 from helper import greeting
 
-greeting('salutations')
+greeting("Open the pod bay doors, HAL.")
