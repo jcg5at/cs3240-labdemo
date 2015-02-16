@@ -1,4 +1,7 @@
 __author__ = 'jcg5at'
 
 
-print('hello')
+def greeting(msg):
+    print(msg)
+
+greeting('hello')
